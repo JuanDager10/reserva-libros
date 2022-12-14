@@ -1,1 +1,0 @@
-<?php include '../Templates/base.php'; ?>
