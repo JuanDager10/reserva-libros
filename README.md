@@ -8,10 +8,9 @@ Juan Sebastian Dager
 
 # Instalación
 
+- Descargar el repositorio
 
-> Descarga el repositorio
-
-- base de datos
+> base de datos
 - Crear la base de datos con nombre: reservar-libros
 - Importar tablas del archivo: reservar-libros.sql
 
