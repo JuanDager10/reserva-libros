@@ -18,5 +18,5 @@ Juan Sebastian Dager
 - Iniciar MySql y Apache 
 - Renombrar la carpeta del respositorio a reserva-libros (quitar el -main)
 - Mover la carpeta a Htdocs del servidor Xampp
-- Abrir el navegador con la ruta localhost/reserva-libros
+- Abrir el navegador con la ruta http://localhost/reserva-libros/Views/Auth/login.php
 
